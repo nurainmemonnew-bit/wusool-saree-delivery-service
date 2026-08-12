@@ -39,13 +39,26 @@ export default function Contact() {
 
               <div className="flex gap-4">
                 <div className="w-12 h-12 bg-white/5 rounded-xl flex items-center justify-center text-orange-400 shrink-0">
+                  <FiMapPin size={24} />
+                </div>
+                <div>
+                  <h4 className="text-white font-medium mb-1">Abu Dhabi Branch</h4>
+                  <p className="text-slate-400 leading-relaxed">
+                    F4, 14, 2nd Floor, ZigZag Building,<br />
+                    Near Dana Hotel, Madeena Supermarket Building,<br />
+                    Abu Dhabi-UAE
+                  </p>
+                </div>
+              </div>
+
+              <div className="flex gap-4">
+                <div className="w-12 h-12 bg-white/5 rounded-xl flex items-center justify-center text-orange-400 shrink-0">
                   <FiPhone size={24} />
                 </div>
                 <div>
                   <h4 className="text-white font-medium mb-1">Phone</h4>
                   <p className="text-slate-400 leading-relaxed">
-                    +971 54 257 6880<br />
-                    +971 56 654 4013
+                    +971 50 964 2616
                   </p>
                 </div>
               </div>
@@ -60,11 +73,6 @@ export default function Contact() {
                     admin@wsdeliveryservices.com
                   </p>
                 </div>
-              </div>
-
-              <div className="pt-4 mt-4 border-t border-white/5">
-                <h4 className="text-white font-semibold">Atik Rahman</h4>
-                <p className="text-orange-500 text-sm">Manager</p>
               </div>
             </div>
           </motion.div>

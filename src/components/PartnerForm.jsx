@@ -64,6 +64,15 @@ export default function PartnerForm() {
               App & Real-time Route Optimization
             </li>
           </ul>
+
+          <div className="mt-8 pt-6 border-t border-white/10">
+            <p className="text-slate-400">
+              Prefer to talk to us directly? Call or WhatsApp{" "}
+              <a href="tel:+971509642616" className="text-orange-400 font-semibold hover:text-orange-300 transition-colors">
+                +971 50 964 2616
+              </a>
+            </p>
+          </div>
         </motion.div>
 
         <motion.div

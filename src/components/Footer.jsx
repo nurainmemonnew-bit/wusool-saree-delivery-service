@@ -18,8 +18,13 @@ export default function Footer() {
               Order Management & Delivery Services<br />
               Smark 2 building, Ras Al Khor,<br />
               Industrial area 2, Dubai-UAE<br />
+              <br />
+              F4, 14, 2nd Floor, ZigZag Building,<br />
+              Near Dana Hotel, Madeena Supermarket Building,<br />
+              Abu Dhabi-UAE<br />
+              <br />
               admin@wsdeliveryservices.com<br />
-              +971 54 257 6880 | +971 56 654 4013
+              +971 50 964 2616
             </p>
             <div className="flex gap-4 mt-8">
               <a href="#" className="w-10 h-10 rounded-full bg-white/5 border border-white/10 flex items-center justify-center text-slate-400 hover:bg-orange-500 hover:text-white hover:border-orange-500 transition-all">
